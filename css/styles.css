@@ -1,0 +1,163 @@
+body{
+	background: url(../img/first.png) no-repeat center center fixed; 
+ 	-webkit-background-size: cover;
+	background-size:cover;
+}
+
+
+.back26, .back4, .back30 {
+	background: url(../img/cloudy.png) no-repeat center center fixed; 
+ 	-webkit-background-size: cover;
+	background-size:cover;
+}
+
+
+.back11 {
+	background: url(../img/showers.png) no-repeat center center fixed; 
+ 	-webkit-background-size: cover;
+	background-size:cover;
+}
+
+.back13, .back16, .back20, .back21 {
+	background: url(../img/snow.png) no-repeat center center fixed; 
+ 	-webkit-background-size: cover;
+	background-size:cover;
+}
+
+.back24 {
+	background: url(../img/wind.png) no-repeat center center fixed; 
+ 	-webkit-background-size: cover;
+	background-size:cover;
+}
+.back28, .back30 {
+	background: url(../img/mostlyc.png) no-repeat center center fixed; 
+ 	-webkit-background-size: cover;
+	background-size:cover;
+}
+
+.back29, .back27 {
+	background: url(../img/mostlycn.png) no-repeat center center fixed; 
+ 	-webkit-background-size: cover;
+	background-size:cover;
+}
+
+
+.back32 {
+	background: url(../img/sun.png) no-repeat center center fixed; 
+ 	-webkit-background-size: cover;
+	background-size:cover;
+}
+
+.back34 {
+	background: url(../img/faird.png) no-repeat center center fixed; 
+ 	-webkit-background-size: cover;
+	background-size:cover;
+}
+
+.back33 {
+	background: url(../img/fairn.png) no-repeat center center fixed; 
+ 	-webkit-background-size: cover;
+	background-size:cover;
+}
+.back36 {
+	background: url(../img/hot.png) no-repeat center center fixed; 
+ 	-webkit-background-size: cover;
+	background-size:cover;
+}
+
+.back3200 {
+	background: url(../img/first.png) no-repeat center center fixed; 
+ 	-webkit-background-size: cover;
+	background-size:cover;
+}
+
+
+.logo	{
+	margin-top: 29px;
+	margin-left: -20px;
+	margin-right: 10px;
+}
+
+
+
+
+
+h1	{
+	margin-top:30px;
+	margin-top: 7px;
+	color:#FFF9A3;
+	font-size:40px;
+	font-family: 'Raleway', sans-serif;
+	 font-weight: 700; 
+	 line-height: 96px;
+}
+
+.span4	{
+	margin-top: 64px;
+	margin-left: 115px;
+}
+
+
+
+.btn	{
+	margin-bottom: 12px;
+}
+
+input	{
+	width: 141px;
+}
+
+h2	{
+	color:white;
+	font-size:152px;
+	margin-top: 380px;
+font-family: 'Arimo', sans-serif;
+	 font-weight: 400; 
+}
+
+
+li	{
+	list-style-type: none;
+	color:white;
+	margin-top: 81px;
+	font-size:25px;
+	font-family: 'Arimo', sans-serif;
+	 font-weight: 400; 
+}
+
+
+img	{
+	max-width: 45%;
+	margin-top: -412px;
+	margin-bottom: 40px;
+	margin-left:385px;
+}
+
+
+li.currently	{
+	margin-top: -84px;
+	margin-left: -24px;
+	color:white;
+	font-size:20px;
+	font-family: 'Arimo', sans-serif;
+	 font-weight: 400; 
+	 margin-bottom: 12px;
+}
+
+a	{
+	margin-left: -24px;
+	text-decoration: none;
+	color: white;
+	font-size:16px;
+
+}
+
+
+a:hover, a:focus {
+color:#FFF9A3;
+text-decoration: underline;
+
+}
+
+
+
