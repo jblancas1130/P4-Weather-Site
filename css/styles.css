@@ -12,11 +12,13 @@ body{
 }
 
 
-.back11 {
+.back11, .back9 {
 	background: url(../img/showers.png) no-repeat center center fixed; 
  	-webkit-background-size: cover;
 	background-size:cover;
 }
+
+
 
 .back13, .back16, .back20, .back21 {
 	background: url(../img/snow.png) no-repeat center center fixed; 
@@ -110,10 +112,11 @@ input	{
 h2	{
 	color:white;
 	font-size:152px;
-	margin-top: 380px;
-font-family: 'Arimo', sans-serif;
+	margin-top: 316px;
+	font-family: 'Arimo', sans-serif;
 	 font-weight: 400; 
 }
+
 
 
 li	{
@@ -128,14 +131,14 @@ li	{
 
 img	{
 	max-width: 45%;
-	margin-top: -412px;
+	margin-top: -384px;
 	margin-bottom: 40px;
 	margin-left:385px;
 }
 
 
 li.currently	{
-	margin-top: -84px;
+	margin-top: -117px;
 	margin-left: -24px;
 	color:white;
 	font-size:20px;
