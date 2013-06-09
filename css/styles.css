@@ -1,19 +1,19 @@
 body{
-	background: url(../img/first.png) no-repeat center center fixed; 
+	background: url(../img/first.jpg) no-repeat center center fixed; 
  	-webkit-background-size: cover;
 	background-size:cover;
 }
 
 
 .back26, .back4, .back30 {
-	background: url(../img/cloudy.png) no-repeat center center fixed; 
+	background: url(../img/cloudy.jpg) no-repeat center center fixed; 
  	-webkit-background-size: cover;
 	background-size:cover;
 }
 
 
 .back11, .back9 {
-	background: url(../img/showers.png) no-repeat center center fixed; 
+	background: url(../img/showers.jpg) no-repeat center center fixed; 
  	-webkit-background-size: cover;
 	background-size:cover;
 }
@@ -21,54 +21,54 @@ body{
 
 
 .back13, .back16, .back20, .back21 {
-	background: url(../img/snow.png) no-repeat center center fixed; 
+	background: url(../img/snow.jpg) no-repeat center center fixed; 
  	-webkit-background-size: cover;
 	background-size:cover;
 }
 
 .back24 {
-	background: url(../img/wind.png) no-repeat center center fixed; 
+	background: url(../img/wind.jpg) no-repeat center center fixed; 
  	-webkit-background-size: cover;
 	background-size:cover;
 }
 .back28, .back30 {
-	background: url(../img/mostlyc.png) no-repeat center center fixed; 
+	background: url(../img/mostlyc.jpg) no-repeat center center fixed; 
  	-webkit-background-size: cover;
 	background-size:cover;
 }
 
 .back29, .back27 {
-	background: url(../img/mostlycn.png) no-repeat center center fixed; 
+	background: url(../img/mostlycn.jpg) no-repeat center center fixed; 
  	-webkit-background-size: cover;
 	background-size:cover;
 }
 
 
 .back32 {
-	background: url(../img/sun.png) no-repeat center center fixed; 
+	background: url(../img/sun.jpg) no-repeat center center fixed; 
  	-webkit-background-size: cover;
 	background-size:cover;
 }
 
 .back34 {
-	background: url(../img/faird.png) no-repeat center center fixed; 
+	background: url(../img/faird.jpg) no-repeat center center fixed; 
  	-webkit-background-size: cover;
 	background-size:cover;
 }
 
 .back33 {
-	background: url(../img/fairn.png) no-repeat center center fixed; 
+	background: url(../img/fairn.jpg) no-repeat center center fixed; 
  	-webkit-background-size: cover;
 	background-size:cover;
 }
 .back36 {
-	background: url(../img/hot.png) no-repeat center center fixed; 
+	background: url(../img/hot.jpg) no-repeat center center fixed; 
  	-webkit-background-size: cover;
 	background-size:cover;
 }
 
 .back3200 {
-	background: url(../img/first.png) no-repeat center center fixed; 
+	background: url(../img/first.jpg) no-repeat center center fixed; 
  	-webkit-background-size: cover;
 	background-size:cover;
 }
@@ -118,7 +118,6 @@ h2	{
 }
 
 
-
 li	{
 	list-style-type: none;
 	color:white;
@@ -161,6 +160,27 @@ color:#FFF9A3;
 text-decoration: underline;
 
 }
+
+p	{
+	
+	width: 355px;
+	height: 344px;
+	margin-top: -331px;
+	margin-left:-63px;
+	background: rgba(255,255,255,.25);
+		border-radius:50px;
+		padding-bottom: 11px;
+}
+
+.btn:hover, .btn:focus, .btn:active, .btn.active, .btn.disabled, .btn[disabled] {	
+	color:#7fccc4;
+}
+
+.btn:hover	{
+	color:#fff9a3;
+}
+
+
 
 
 
