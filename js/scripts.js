@@ -27,7 +27,7 @@ $(document).ready(function() {
 			html += '<ul><li> <img src="img/' + weather.code + '.png"></li>';
 			html += '<li class="currently">'+ weather.currently +'</li>';   //status-cloudy, sunny, rain. . .//
 			html += '<a href="'+weather.link+'">View Forecast &raquo;</a>';
-			$('body').addClass('back' + weather.code);
+			$('body').addClass('bg' + weather.code);
 			html += '<p>'+'</p>';
 			
 			// Write collection to page with html() method
